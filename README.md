@@ -46,7 +46,7 @@ Sharpening my skills in cloud deployment (DigitalOcean), API design, and modern 
 
 How to reach me
 
-**Email:** [faithcharity983@gmail.com](mailto:faithcharity983@gmail.com)
+**Email:** [ojeracharity1@gmail.com](mailto:faithcharity983@gmail.com)
 **LinkedIn:** [https://www.linkedin.com/in/charity-faith-ojera-2661b6375](https://www.linkedin.com/in/charity-faith-ojera-2661b6375)
 **GitHub:** [https://github.com/charityfae](https://github.com/charityfae)
 
